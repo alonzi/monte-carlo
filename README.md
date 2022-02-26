@@ -4,6 +4,9 @@ This repository contains a 30 minute session intended for undergraduate students
 ## Preface
 lorem ipsum
 
+---
+---
+
 # Introduction
 ![](https://github.com/alonzi/monte-carlo/blob/3449d0f1c22ec12c4106d7fe41a4105da83ef348/images/norbert-sue-munich.jpg)
 
@@ -15,6 +18,23 @@ lorem ipsum
 ## Hussain's Reaction
 ![](https://github.com/alonzi/monte-carlo/blob/f9434adeb8b6f831f80ab1db36c499bcb094d93d/images/disappointed.jpg)
 
+# The casino at Monte Carlo
+
+# Example 1 - flipping a coin
+
+# Sytems to the rescue
+
+# The Solution to the Monty Hall Problem
+
+## Full tree graph solution
+
+## Monte Carlo Solution
+
+## Bayes' Solution
+
+
+---
+---
 
 # Homework
 * adsf
