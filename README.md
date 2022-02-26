@@ -13,16 +13,17 @@ lorem ipsum
 ## The Monty Hall Problem
 
 ## Should You Switch?
-![](https://github.com/alonzi/monte-carlo/blob/f83926a62f869a209d41a5022cb750c8a47930d0/images/Monte_Carlo_Casino,_Monaco_-_interior-_(2)_(32774947955).jpg)
 
 ## Hussain's Reaction
 ![](https://github.com/alonzi/monte-carlo/blob/f9434adeb8b6f831f80ab1db36c499bcb094d93d/images/disappointed.jpg)
 
 # The casino at Monte Carlo
+![](https://github.com/alonzi/monte-carlo/blob/f83926a62f869a209d41a5022cb750c8a47930d0/images/Monte_Carlo_Casino,_Monaco_-_interior-_(2)_(32774947955).jpg)
 
 # Example 1 - flipping a coin
 
 # Sytems to the rescue
+![](https://github.com/alonzi/monte-carlo/blob/7a370df312a4e01ee24ea8c88796c49621f5e8f4/images/Eniac.jpg)
 
 # The Solution to the Monty Hall Problem
 
