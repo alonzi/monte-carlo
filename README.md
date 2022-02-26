@@ -15,3 +15,4 @@ lorem ipsum
 * This session was inspired by:
   * Eric Grimson, John Guttag, and Ana Bell. 6.0002 Introduction to Computational Thinking and Data Science. Fall 2016. Massachusetts Institute of Technology: MIT OpenCourseWare, https://ocw.mit.edu. License: Creative Commons BY-NC-SA.https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
   * Hussain Zaidi
+* Disappointed Cricket Fan: https://knowyourmeme.com/memes/disappointed-muhammad-sarim-akhtar
