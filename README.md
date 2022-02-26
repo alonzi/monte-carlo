@@ -1,6 +1,9 @@
 # Introduction to Monte Carlo Simulation
 This repository contains a 30 minute session intended for undergraduate students. The topic is 'Introduction to Monte Carlo Simulation'.
 
+## Preface
+lorem ipsum
+
 # Introduction
 ![](https://github.com/alonzi/monte-carlo/blob/3449d0f1c22ec12c4106d7fe41a4105da83ef348/images/norbert-sue-munich.jpg)
 
