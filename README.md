@@ -7,8 +7,22 @@ lorem ipsum
 # Introduction
 ![](https://github.com/alonzi/monte-carlo/blob/3449d0f1c22ec12c4106d7fe41a4105da83ef348/images/norbert-sue-munich.jpg)
 
-# Should You Switch?
+## The Monty Hall Problem
+
+## Should You Switch?
 ![](https://github.com/alonzi/monte-carlo/blob/f83926a62f869a209d41a5022cb750c8a47930d0/images/Monte_Carlo_Casino,_Monaco_-_interior-_(2)_(32774947955).jpg)
+
+## Hussain's Reaction
+![](https://github.com/alonzi/monte-carlo/blob/f9434adeb8b6f831f80ab1db36c499bcb094d93d/images/disappointed.jpg)
+
+
+# Homework
+* adsf
+* asdf
+* asdf
+
+If you complete this then Hussain will be like:
+![](https://github.com/alonzi/monte-carlo/blob/75498d1484574ba3b86412343f652886f71b2c24/images/happy-fan.jpg)
 
 # N.B.
 * ![](https://github.com/alonzi/monte-carlo/blob/762c7013f9157e80cd3277a42186b7dcb9fe88a5/Cc-by-nc-sa_icon.svg.png) see https://creativecommons.org/licenses/by-nc-sa/4.0/      
