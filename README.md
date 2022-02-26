@@ -12,3 +12,4 @@ lorem ipsum
 
 # N.B.
 * ![](https://github.com/alonzi/monte-carlo/blob/762c7013f9157e80cd3277a42186b7dcb9fe88a5/Cc-by-nc-sa_icon.svg.png) see https://creativecommons.org/licenses/by-nc-sa/4.0/      
+* Inspiration: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
