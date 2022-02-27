@@ -17,7 +17,7 @@ Let me tell you about the time he got me really good.
 ## The Monty Hall Problem
 ![](https://github.com/alonzi/monte-carlo/blob/706070fd4393e3c354cdd5abea0a60ab0aa999f3/images/Monty_open_door.svg.png)
 
-As original seen widely on Let's Make a Deal
+As original seen widely on Let's Make a Deal. Two doors have a goat behind them and the other door has a *Brand new Car*TM.
 
 ## Should You Switch?
 This is the question Hussain put to us and now I put to you. I would like everyone to take two minutes in pairs to discuss and decide on the best course of action. On the chance you are familar with this problem please defer to your partner.
