@@ -80,7 +80,6 @@ You can see my code here: [examle-1-coin-flip.py](https://github.com/alonzi/mont
 
 ## The power comes from the so-called "Law of Large Numbers"
 ![](https://github.com/alonzi/monte-carlo/blob/041a169c4282a1aacce399f3143e0307c39e0b76/images/large-number-of-flips.png)
-
 ![](https://github.com/alonzi/monte-carlo/blob/a1dd3651385baff13d4a3df9cecd44f69153de9f/images/Lawoflargenumbersanimation2.gif)
 
 ### Corollary, the gambler's fallacy
