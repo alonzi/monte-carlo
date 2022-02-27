@@ -11,7 +11,7 @@ lorem ipsum
 ![](https://github.com/alonzi/monte-carlo/blob/3449d0f1c22ec12c4106d7fe41a4105da83ef348/images/norbert-sue-munich.jpg)
 
 ## The Monty Hall Problem
-
+![](https://github.com/alonzi/monte-carlo/blob/706070fd4393e3c354cdd5abea0a60ab0aa999f3/images/Monty_open_door.svg.png)
 ## Should You Switch?
 
 ## Hussain's Reaction
@@ -51,3 +51,4 @@ If you complete this then Hussain will be like:
   * Eric Grimson, John Guttag, and Ana Bell. 6.0002 Introduction to Computational Thinking and Data Science. Fall 2016. Massachusetts Institute of Technology: MIT OpenCourseWare, https://ocw.mit.edu. License: Creative Commons BY-NC-SA.https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
   * Hussain Zaidi
 * Disappointed Cricket Fan: https://knowyourmeme.com/memes/disappointed-muhammad-sarim-akhtar - https://youtu.be/RL5icIDb_eg
+* Doors and a Goat - By Cepheus - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1234194
