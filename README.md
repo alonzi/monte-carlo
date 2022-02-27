@@ -51,6 +51,16 @@ I was wrong, but refused to believe it. So Hussain gave me the same look this cr
 # The Monte Carlo Casino
 ![](https://github.com/alonzi/monte-carlo/blob/f83926a62f869a209d41a5022cb750c8a47930d0/images/Monte_Carlo_Casino,_Monaco_-_interior-_(2)_(32774947955).jpg)
 
+# The Monte Carlo Method
+
+1. Define the set of all possible starting conditions
+2. Generate trials by sampling from that set, **APPROPRIATELY**
+3. Perform necessary computation for each trial separately
+4. Aggregate the results
+
+
+### N.B. - Every discipline uses different terminology and variations on this approach. Always check to make sure you aren't talking past eachother
+
 # Example 1 - flipping a coin
 
 # Sytems to the rescue
