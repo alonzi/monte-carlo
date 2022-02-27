@@ -4,6 +4,10 @@ This repository contains a 30 minute session intended for undergraduate students
 ## Preface for context
 lorem ipsum
 
+## Objectives
+1. Introduce key concepts
+2. Motivate students to 
+3. Target method of using computation
 ---
 ---
 
