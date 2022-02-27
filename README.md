@@ -16,6 +16,9 @@ Let me tell you about the time he got me really good.
 
 ## The Monty Hall Problem
 ![](https://github.com/alonzi/monte-carlo/blob/706070fd4393e3c354cdd5abea0a60ab0aa999f3/images/Monty_open_door.svg.png)
+
+As original seen widely on Let's Make a Deal
+
 ## Should You Switch?
 
 ## Hussain's Reaction
@@ -56,3 +59,4 @@ If you complete this then Hussain will be like:
   * Hussain Zaidi
 * Disappointed Cricket Fan: https://knowyourmeme.com/memes/disappointed-muhammad-sarim-akhtar - https://youtu.be/RL5icIDb_eg
 * Doors and a Goat - By Cepheus - Own work, Public Domain, https://commons.wikimedia.org/w/index.php?curid=1234194
+* https://en.wikipedia.org/wiki/Let%27s_Make_a_Deal
