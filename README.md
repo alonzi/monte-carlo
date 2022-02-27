@@ -17,10 +17,20 @@ Let me tell you about the time he got me really good.
 ## The Monty Hall Problem
 ![](https://github.com/alonzi/monte-carlo/blob/706070fd4393e3c354cdd5abea0a60ab0aa999f3/images/Monty_open_door.svg.png)
 
-As original seen widely on Let's Make a Deal. Two doors have a goat behind them and the other door has a *Brand new Car* TM.
+As original seen widely on Let's Make a Deal. 
 
-## Should You Switch?
-This is the question Hussain put to us and now I put to you. I would like everyone to take two minutes in pairs to discuss and decide on the best course of action. On the chance you are familar with this problem please defer to your partner.
+Here is our definition of the game:
+* There are three doors
+* Two doors have a goat behind them and the other door has a *Brand new Car* TM.
+* The player will select a door
+* The host will reveal a different door showing a goat.
+* Two doors will remain, one the player chose and the other closed door.
+* The player must choose which door to open. The one they selected **or** they may switch and select the other door.
+
+The question Hussain put to us and now I put to you is ....
+
+# Should You Switch?
+I would like everyone to take two minutes in pairs to discuss and decide on the best course of action. On the chance you are familar with this problem please defer to your partner.
 
 ## Hussain's Reaction
 ![](https://github.com/alonzi/monte-carlo/blob/f9434adeb8b6f831f80ab1db36c499bcb094d93d/images/disappointed.jpg)
