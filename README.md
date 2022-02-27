@@ -62,15 +62,15 @@ I was wrong, but refused to believe it. So Hussain gave me the same look this cr
 ### N.B. - Every discipline uses different terminology and variations on this approach. Always check to make sure you aren't talking past eachother.
 
 # Example 1 - flipping a coin
-Let's follow the method for flipping a coin
+Let's follow the method for flipping a coin. We want to determine if a coin is 'fair'.
 
 ## Exercise
 In pairs work out the four steps above for flipping a coin.
 
 1. Define two possible starting conditions - {Heads,Tails}
-2. Generate Trials - `np.random.randint(...)`
-3. Compute - map RNG results to Heads/Tails - `map(...)`
-4. Aggregate - `sum(...)`
+2. Generate Trials - flip coins
+3. Compute - write down the results
+4. Aggregate - calculate estimates
 
 ### (Pete don't forget) Record the results of the deliberations and pause for questions.
 
