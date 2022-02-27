@@ -23,7 +23,7 @@ Here is our definition of the game:
 > * There are three doors
 > * Two doors have a goat behind them and the other door has a *Brand New Car* TM.
 > * The player will select a door
-> * The host will reveal a different door showing a goat.
+> * The host will open a door the player didn't choose revealing a goat.
 > * Two doors will remain, one the player chose and the other closed door.
 > * The player must choose which door to open. The one they selected **or** they may switch and select the other door.
 
