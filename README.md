@@ -115,8 +115,8 @@ You can see my code here: [examle-1-coin-flip.py](https://github.com/alonzi/mont
 ---
 
 # Homework
-1. Create a plot showing 10,000 flips and the estimate of the fairness converging
-2. Extend the plot to include one standard deviation error bars
+1. Create a plot showing 10,000 flips and the estimate of the fairness converging ([hint](https://github.com/alonzi/monte-carlo/blob/b83b0e47812e5e302b582e57b0ab756e87112ddb/code/example-1-coin-flip.py))
+2. Extend the plot from #1 to include one standard deviation error bars
 3. Write a Monte Carlo simulation for 52 doors (i.e. the deck of cards example)
 4. Write a Monte Carlo simulation for something you see in your everyday life
 
