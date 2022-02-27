@@ -21,7 +21,7 @@ As original seen widely on Let's Make a Deal.
 
 Here is our definition of the game:
 > * There are three doors (labeled 1,2,3)
-> * The player will get to open a door.
+> * The player will get to open a door at the end and keep what is behind it.
 > * Two doors have a goat behind them and the other door has a *Brand New Car* TM.
 > * The player will select a door.
 > * The host will open a door the player didn't choose revealing a goat.
