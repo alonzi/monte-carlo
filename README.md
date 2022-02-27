@@ -20,6 +20,7 @@ Let me tell you about the time he got me really good.
 As original seen widely on Let's Make a Deal
 
 ## Should You Switch?
+This is the question Hussain put to us and now I put to you. I would like everyone to take two minutes in pairs to discuss and decide on the best course of action. On the chance you are familar with this problem please defer to your partner.
 
 ## Hussain's Reaction
 ![](https://github.com/alonzi/monte-carlo/blob/f9434adeb8b6f831f80ab1db36c499bcb094d93d/images/disappointed.jpg) Muhammad Sarim Akhtar
