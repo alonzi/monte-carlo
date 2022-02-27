@@ -82,6 +82,8 @@ In pairs work out the four steps above for checking the fairness of a coin.
 ### Corollary, the gambler's fallacy
 ![](https://github.com/alonzi/monte-carlo/blob/041a169c4282a1aacce399f3143e0307c39e0b76/images/harras.png)
 
+#### Corollary to the corollary, regression to the mean
+
 # Sytems to the rescue
 ![](https://github.com/alonzi/monte-carlo/blob/7a370df312a4e01ee24ea8c88796c49621f5e8f4/images/Eniac.jpg)
 
