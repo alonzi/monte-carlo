@@ -118,7 +118,7 @@ You can see my code here: [examle-1-coin-flip.py](https://github.com/alonzi/mont
 ## If you complete the Homework then Hussain will be like:
 ![](https://github.com/alonzi/monte-carlo/blob/75498d1484574ba3b86412343f652886f71b2c24/images/happy-fan.jpg)
 
-# N.B.
+# Notes
 * ![](https://github.com/alonzi/monte-carlo/blob/762c7013f9157e80cd3277a42186b7dcb9fe88a5/Cc-by-nc-sa_icon.svg.png) see https://creativecommons.org/licenses/by-nc-sa/4.0/      
 * This session was inspired by:
   * Eric Grimson, John Guttag, and Ana Bell. 6.0002 Introduction to Computational Thinking and Data Science. Fall 2016. Massachusetts Institute of Technology: MIT OpenCourseWare, https://ocw.mit.edu. License: Creative Commons BY-NC-SA.https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/
