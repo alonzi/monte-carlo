@@ -85,10 +85,13 @@ In pairs work out the four steps above for flipping a coin.
 # Sytems to the rescue
 ![](https://github.com/alonzi/monte-carlo/blob/7a370df312a4e01ee24ea8c88796c49621f5e8f4/images/Eniac.jpg)
 
+## Exercise - same as last time, but with python functions
 1. Define two possible starting conditions - {Heads,Tails}
 2. Generate Trials - `np.random.randint(...)`
 3. Compute - map RNG results to Heads/Tails - `map(...)`
 4. Aggregate - `sum(...)`
+
+### (Pete don't forget) Record the results of the deliberations and pause for questions.
 
 You can see my code here: [examle-1-coin-flip.py](https://github.com/alonzi/monte-carlo/blob/b83b0e47812e5e302b582e57b0ab756e87112ddb/code/example-1-coin-flip.py)
 
