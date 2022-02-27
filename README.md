@@ -59,7 +59,7 @@ I was wrong, but refused to believe it. So Hussain gave me the same look this cr
 4. Aggregate the results
 
 
-### N.B. - Every discipline uses different terminology and variations on this approach. Always check to make sure you aren't talking past eachother
+### N.B. - Every discipline uses different terminology and variations on this approach. Always check to make sure you aren't talking past eachother.
 
 # Example 1 - flipping a coin
 Let's follow the method for flipping a coin
