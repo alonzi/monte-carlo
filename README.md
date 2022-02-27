@@ -9,7 +9,7 @@ lorem ipsum
 
 # Introduction
 ![](https://github.com/alonzi/monte-carlo/blob/3449d0f1c22ec12c4106d7fe41a4105da83ef348/images/norbert-sue-munich.jpg)
-
+This is my friend Hussain Zaidi. He is a theoretical physicist and loves puzzles, especially ones that make me look silly.
 ## The Monty Hall Problem
 ![](https://github.com/alonzi/monte-carlo/blob/706070fd4393e3c354cdd5abea0a60ab0aa999f3/images/Monty_open_door.svg.png)
 ## Should You Switch?
