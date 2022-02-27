@@ -115,7 +115,7 @@ You can see my code here: [examle-1-coin-flip.py](https://github.com/alonzi/mont
 3. Write a Monte Carlo simulation for 52 doors (i.e. the deck of cards example)
 4. Write a Monte Carlo simulation for something you see in your everyday life
 
-## If you complete this then Hussain will be like:
+## If you complete the Homework then Hussain will be like:
 ![](https://github.com/alonzi/monte-carlo/blob/75498d1484574ba3b86412343f652886f71b2c24/images/happy-fan.jpg)
 
 # N.B.
