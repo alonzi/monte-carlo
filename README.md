@@ -41,7 +41,9 @@ On the chance you are familar with this problem please defer to your partner.
 ## Hussain's Reaction
 ![](https://github.com/alonzi/monte-carlo/blob/f9434adeb8b6f831f80ab1db36c499bcb094d93d/images/disappointed.jpg)
 
-I was wrong, but refused to believe it. So Hussain gave me the same look this cricket fan gave. But I knew I was right and the way I was going to prove it was with a Monte Carlo simulation. Hussain and his theoretical garbage could not stand up to the awesome power of my simulations ... As it turned out, the simulations proved him correct and I was wrong.
+I was wrong, but refused to believe it. So Hussain gave me the same look this cricket fan gave. But I knew I was right and the way I was going to prove it was with a Monte Carlo simulation. Hussain and his theoretical garbage could not stand up to the awesome power of my simulations ... As it turned out, the simulations proved him correct and I was wrong. But the lesson I learned that day endures. And my goal is to help you learn same lesson.
+
+## When in doubt, just Monte Carlo it.
 
 # The casino at Monte Carlo
 ![](https://github.com/alonzi/monte-carlo/blob/f83926a62f869a209d41a5022cb750c8a47930d0/images/Monte_Carlo_Casino,_Monaco_-_interior-_(2)_(32774947955).jpg)
