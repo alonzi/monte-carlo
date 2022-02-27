@@ -23,7 +23,9 @@ As original seen widely on Let's Make a Deal. Two doors have a goat behind them 
 This is the question Hussain put to us and now I put to you. I would like everyone to take two minutes in pairs to discuss and decide on the best course of action. On the chance you are familar with this problem please defer to your partner.
 
 ## Hussain's Reaction
-![](https://github.com/alonzi/monte-carlo/blob/f9434adeb8b6f831f80ab1db36c499bcb094d93d/images/disappointed.jpg) Muhammad Sarim Akhtar
+![](https://github.com/alonzi/monte-carlo/blob/f9434adeb8b6f831f80ab1db36c499bcb094d93d/images/disappointed.jpg)
+
+I was wrong, but refused to believe it. So Hussain gave me the same look this cricket fan gave. But I knew I was right and the way I was going to prove it was with a Monte Carlo simulation. Hussain and his theoretical garbage could not stand up to the awesome power of my simulations ... As it turned out, the simulations proved him correct and I was wrong.
 
 # The casino at Monte Carlo
 ![](https://github.com/alonzi/monte-carlo/blob/f83926a62f869a209d41a5022cb750c8a47930d0/images/Monte_Carlo_Casino,_Monaco_-_interior-_(2)_(32774947955).jpg)
