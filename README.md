@@ -26,7 +26,7 @@ Here is our definition of the game:
 > * The player will select a door.
 > * The host will open a door the player didn't choose revealing a goat.
 > * Two doors will remain, one the player chose and the other closed door.
-> * The host will let the player switch doors.
+> * The host will let the player switch to the other closed door, if the player wants to.
 > * The player will open their door and see what they have won.
 
 The question Hussain put to us and now I put to you is ....
