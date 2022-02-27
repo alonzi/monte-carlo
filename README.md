@@ -65,17 +65,14 @@ I was wrong, but refused to believe it. So Hussain gave me the same look this cr
 Let's follow the method for flipping a coin
 
 ## Exercise
-In pairs work out the four steps above and indicate python functions for steps 2, 3, and 4.
-
-
-
+In pairs work out the four steps above for flipping a coin.
 
 1. Define two possible starting conditions - {Heads,Tails}
 2. Generate Trials - `np.random.randint(...)`
 3. Compute - map RNG results to Heads/Tails - `map(...)`
 4. Aggregate - `sum(...)`
 
-You can see my code here: [examle-1-coin-flip.py](https://github.com/alonzi/monte-carlo/blob/b83b0e47812e5e302b582e57b0ab756e87112ddb/code/example-1-coin-flip.py)
+### (Pete don't forget) Record the results of the deliberations and pause for questions.
 
 
 ## The power comes from the so-called "Law of Large Numbers"
@@ -87,6 +84,13 @@ You can see my code here: [examle-1-coin-flip.py](https://github.com/alonzi/mont
 
 # Sytems to the rescue
 ![](https://github.com/alonzi/monte-carlo/blob/7a370df312a4e01ee24ea8c88796c49621f5e8f4/images/Eniac.jpg)
+
+1. Define two possible starting conditions - {Heads,Tails}
+2. Generate Trials - `np.random.randint(...)`
+3. Compute - map RNG results to Heads/Tails - `map(...)`
+4. Aggregate - `sum(...)`
+
+You can see my code here: [examle-1-coin-flip.py](https://github.com/alonzi/monte-carlo/blob/b83b0e47812e5e302b582e57b0ab756e87112ddb/code/example-1-coin-flip.py)
 
 # The Solution to the Monty Hall Problem
 
