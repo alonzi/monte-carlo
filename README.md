@@ -32,7 +32,11 @@ Here is our definition of the game:
 The question Hussain put to us and now I put to you is ....
 
 # Should You Switch?
-I would like everyone to take two minutes in pairs to discuss and decide on the best course of action. On the chance you are familar with this problem please defer to your partner.
+I would like everyone to take two minutes in pairs to discuss and decide on the best course of action.
+
+On the chance you are familar with this problem please defer to your partner.
+
+## Record the results of your pairs deliberations
 
 ## Hussain's Reaction
 ![](https://github.com/alonzi/monte-carlo/blob/f9434adeb8b6f831f80ab1db36c499bcb094d93d/images/disappointed.jpg)
