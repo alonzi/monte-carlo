@@ -20,12 +20,14 @@ Let me tell you about the time he got me really good.
 As original seen widely on Let's Make a Deal. 
 
 Here is our definition of the game:
-> * There are three doors
+> * There are three doors (labeled 1,2,3)
+> * The player will get to open a door.
 > * Two doors have a goat behind them and the other door has a *Brand New Car* TM.
-> * The player will select a door
+> * The player will select a door.
 > * The host will open a door the player didn't choose revealing a goat.
 > * Two doors will remain, one the player chose and the other closed door.
-> * The player must choose which door to open. The one they selected **or** they may switch and select the other door.
+> * The host will let the player switch doors.
+> * The player will open their door and see what they have won.
 
 The question Hussain put to us and now I put to you is ....
 
