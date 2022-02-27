@@ -85,7 +85,12 @@ In pairs work out the four steps above for checking the fairness of a coin.
 #### Corollary to the corollary, regression to the mean
 
 # Sytems to the rescue
-![](https://github.com/alonzi/monte-carlo/blob/7a370df312a4e01ee24ea8c88796c49621f5e8f4/images/Eniac.jpg)
+##The ENIAC - c1950
+![The ENIAC - c1950](https://github.com/alonzi/monte-carlo/blob/7a370df312a4e01ee24ea8c88796c49621f5e8f4/images/Eniac.jpg)
+
+## Pete's Thesis Experiment - c2010
+![Pete's Thesis Experiment - c2010](https://github.com/alonzi/monte-carlo/blob/854ba35ebf88f1c7bb5bdb8f6fc9639b734fbd6b/images/mess.jpeg)
+
 
 ## Exercise - same as last time, but with python functions
 1. Define two possible starting conditions - {Heads,Tails}
