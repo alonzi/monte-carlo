@@ -75,7 +75,7 @@ In pairs work out the four steps above and indicate python functions for steps 2
 3. Compute - map RNG results to Heads/Tails - `map(...)`
 4. Aggregate - `sum(...)`
 
-You can see my code here: [examle-1-coin-flip.py]()
+You can see my code here: [examle-1-coin-flip.py](https://github.com/alonzi/monte-carlo/blob/b83b0e47812e5e302b582e57b0ab756e87112ddb/code/example-1-coin-flip.py)
 
 
 ## The power comes from the so-called "Law of Large Numbers"
