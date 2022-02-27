@@ -48,7 +48,7 @@ I was wrong, but refused to believe it. So Hussain gave me the same look this cr
 ---
 ---
 
-# The casino at Monte Carlo
+# The Monte Carlo Casino
 ![](https://github.com/alonzi/monte-carlo/blob/f83926a62f869a209d41a5022cb750c8a47930d0/images/Monte_Carlo_Casino,_Monaco_-_interior-_(2)_(32774947955).jpg)
 
 # Example 1 - flipping a coin
