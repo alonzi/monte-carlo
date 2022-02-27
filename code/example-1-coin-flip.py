@@ -2,8 +2,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 N = 10**1
-# N = 10**3
-# N = 10**6
+N = 3*10**3
+#N = 10**6
 avg = []
 
 def toCoin(x):
