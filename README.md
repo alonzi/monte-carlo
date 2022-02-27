@@ -62,6 +62,21 @@ I was wrong, but refused to believe it. So Hussain gave me the same look this cr
 ### N.B. - Every discipline uses different terminology and variations on this approach. Always check to make sure you aren't talking past eachother
 
 # Example 1 - flipping a coin
+Let's follow the method for flipping a coin: Again in pairs, work out the four steps above and indicate python functions for steps 2,3, and 4.
+
+
+
+
+1. Define two possible starting conditions - {Heads,Tails}
+2. Generate Trials - `np.random.randint(...)`
+3. Compute - map RNG results to Heads/Tails - `map(...)`
+4. Aggregate - `sum(...)`
+
+You can see my code here: [examle-1-coin-flip.py]()
+
+
+
+
 
 # Sytems to the rescue
 ![](https://github.com/alonzi/monte-carlo/blob/7a370df312a4e01ee24ea8c88796c49621f5e8f4/images/Eniac.jpg)
