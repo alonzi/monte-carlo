@@ -36,7 +36,7 @@ I would like everyone to take two minutes in pairs to discuss and decide on the 
 
 On the chance you are familar with this problem please defer to your partner.
 
-## Record the results of your pairs deliberations
+### (Pete don't forget) Record the results of the deliberations and pause for questions.
 
 ## Hussain's Reaction
 ![](https://github.com/alonzi/monte-carlo/blob/f9434adeb8b6f831f80ab1db36c499bcb094d93d/images/disappointed.jpg)
