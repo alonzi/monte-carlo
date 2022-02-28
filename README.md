@@ -126,8 +126,13 @@ You can see my code here: [examle-1-coin-flip.py](https://github.com/alonzi/mont
 
 
 ---
+
+# Recap
+lorem ipsum
+
 # Next Time
 lorem ipsum
+
 ---
 
 # Homework
