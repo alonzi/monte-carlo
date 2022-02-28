@@ -14,6 +14,11 @@ For this session prior knowledge is assumed. The target audience are 2nd year UV
 2. Motivate students to 
 3. Target method of using computation
 ---
+
+# Warm up question: How many games are played in the NCAA basketball tournament?
+
+# Today's Focus: How can you use computers to make estimates?
+
 ---
 
 # Introduction
