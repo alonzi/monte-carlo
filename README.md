@@ -2,9 +2,14 @@
 This repository contains a 30 minute session intended for undergraduate students. The topic is 'Introduction to Monte Carlo Simulation'.
 
 ## Preface for context
-lorem ipsum
+For this session prior knowledge is assumed. The target audience are 2nd year UVA students. Two semesters of calculus as well as an introduction to programming class shall already have been taken. A course in probability and statistic should at least be underway.
 
-## Objectives
+### Prior Knowledge
+1. Fundamental statistics: mean, variance, etc.
+2. Understand that without context the standard deviation has no meaning
+3. Proficiency with computers to run short python scripts to produce plots
+
+### Objectives of this session
 1. Introduce key concepts
 2. Motivate students to 
 3. Target method of using computation
@@ -116,13 +121,24 @@ You can see my code here: [examle-1-coin-flip.py](https://github.com/alonzi/mont
 
 
 ---
+# Next Time
+lorem ipsum
 ---
 
 # Homework
+
+## Coding Exercises
 1. Create a plot showing 10,000 flips and the estimate of the fairness converging ([hint](https://github.com/alonzi/monte-carlo/blob/b83b0e47812e5e302b582e57b0ab756e87112ddb/code/example-1-coin-flip.py))
 2. Extend the plot from #1 to include one standard deviation error bars
 3. Write a Monte Carlo simulation for 52 doors (i.e. the deck of cards example)
 4. Write a Monte Carlo simulation for something you see in your everyday life
+
+## Questions to ponder
+1. How many samples/trial/games do I need to run in my simulation?
+2. How would you simulate rare processes (e.g. something that only happens 1 in 10,000 times)?
+3. What is the relationship between variance and confidence?
+4. What is the relationship between probability of an event and your surprise?
+5. How would you modify your program if you were to chain multiple steps together for a single game (i.e. What if there were doors behind the doors)?
 
 ## If you complete the Homework then Hussain will be like:
 ![](https://github.com/alonzi/monte-carlo/blob/75498d1484574ba3b86412343f652886f71b2c24/images/happy-fan.jpg)
