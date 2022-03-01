@@ -144,10 +144,11 @@ print("Win percentage when strategy is 'SWITCH' =", 100.*wins/GAMES)
 ```
 ![](https://github.com/alonzi/monte-carlo/blob/96dd2adb7b4962dfa3292164b7c8eaf5b2d9f227/images/Screen%20Shot%202022-03-01%20at%203.10.57%20PM.png)
 ## Bayes' Solution
+![](https://github.com/alonzi/monte-carlo/blob/main/images/Screen%20Shot%202022-03-01%20at%204.27.12%20PM.png)
 
+Full notes on Bayes' [here](https://github.com/alonzi/monte-carlo/blob/main/images/bayes-note.pdf).
 
 ### I love Bayes' rule, it's the integration by parts of probability
-
 ---
 
 # Recap
