@@ -142,7 +142,7 @@ for i in range(GAMES):
 
 print("Win percentage when strategy is 'SWITCH' =", 100.*wins/GAMES)
 ```
-
+![](https://github.com/alonzi/monte-carlo/blob/96dd2adb7b4962dfa3292164b7c8eaf5b2d9f227/images/Screen%20Shot%202022-03-01%20at%203.10.57%20PM.png)
 ## Bayes' Solution
 
 
