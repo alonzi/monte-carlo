@@ -118,7 +118,8 @@ You can see my code here: [examle-1-coin-flip.py](https://github.com/alonzi/mont
 
 # The Solution to the Monty Hall Problem
 
-## Full tree graph solution
+## Graph solution
+![](https://github.com/alonzi/monte-carlo/blob/b34e4db381848a0cfb59f443fae57c0a10bd52dd/images/monty-diagram.jpeg)
 
 ## Monte Carlo Solution
 ```
