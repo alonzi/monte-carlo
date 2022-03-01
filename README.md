@@ -119,7 +119,7 @@ You can see my code here: [examle-1-coin-flip.py](https://github.com/alonzi/mont
 # The Solution to the Monty Hall Problem
 
 ## Graph solution
-The key is to use the correct basis. Don't think in terms of door numbers (1,2,3). Think in terms of what is behind the door.
+The key is to use the correct basis. Don't think in terms of door numbers (1,2,3). Think in terms of what is behind the door (car,goat).
 
 ![](https://github.com/alonzi/monte-carlo/blob/b34e4db381848a0cfb59f443fae57c0a10bd52dd/images/monty-diagram.jpeg)
 
