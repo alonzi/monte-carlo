@@ -10,8 +10,11 @@ This repository contains a 30 minute session intended for undergraduate students
   * Before: complex multi-system pipelines
 
 ---
+---
 
 # Warm up question: How many games are played in the NCAA basketball tournament?
+
+---
 
 # Today's Focus: The Monte Carlo Method (The computer is a tool)
 
