@@ -1,18 +1,14 @@
 # Introduction to Monte Carlo Simulation
 This repository contains a 30 minute session intended for undergraduate students. The topic is 'Introduction to Monte Carlo Simulation'.
 
-## Preface for context
-For this session prior knowledge is assumed. The target audience are 2nd year UVA students. Two semesters of calculus as well as an introduction to programming class shall already have been taken. A course in probability and statistic should at least be underway.
+## Preface
+* The target level is a class of 2nd year UVA students.
+* This session fits primarialy in the Systems area pulling heavily from Design and Probability.
+* This session sits in the first Systems course.
+  * After: the fundamentals of computer programming
+  * Purpose: First exercise for students to use the computer as a tool to solve problems
+  * Before: complex multi-system pipelines
 
-### Prior Knowledge
-1. Fundamental statistics: mean, variance, etc.
-2. Understand that without context the standard deviation has no meaning
-3. Proficiency with computers to run short python scripts to produce plots
-
-### Objectives of this session
-1. Introduce key concepts
-2. Motivate students to 
-3. Target method of using computation
 ---
 
 # Warm up question: How many games are played in the NCAA basketball tournament?
