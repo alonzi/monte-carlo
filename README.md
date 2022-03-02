@@ -13,7 +13,7 @@ This repository contains a 30 minute session intended for undergraduate students
 
 # Warm up question: How many games are played in the NCAA basketball tournament?
 
-# Today's Focus: The Monte Carlo Method
+# Today's Focus: The Monte Carlo Method (The computer is a tool)
 
 ---
 
