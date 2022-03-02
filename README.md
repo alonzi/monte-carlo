@@ -113,7 +113,7 @@ In pairs work out the four steps above for checking the fairness of a coin.
 
 ### (Pete don't forget) Record the results of the deliberations and pause for questions.
 
-You can see my code here: [examle-1-coin-flip.py](https://github.com/alonzi/monte-carlo/blob/b83b0e47812e5e302b582e57b0ab756e87112ddb/code/example-1-coin-flip.py)
+You can see my code here: [example-1-coin-flip.py](https://github.com/alonzi/monte-carlo/blob/b83b0e47812e5e302b582e57b0ab756e87112ddb/code/example-1-coin-flip.py)
 
 # The Solution to the Monty Hall Problem
 
