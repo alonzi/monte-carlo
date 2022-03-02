@@ -57,7 +57,9 @@ On the chance you are familar with this problem please defer to your partner.
 I was wrong, but refused to believe it. So Hussain gave me the same look this cricket fan gave. But I knew I was right and the way I was going to prove it was with a Monte Carlo simulation. Hussain and his theoretical garbage could not stand up to the awesome power of my simulations ... As it turned out, the simulations proved him correct and I was wrong. But the lesson I learned that day endures. And my goal is to help you learn same lesson.
 
 ### When in doubt, just Monte Carlo it.
+
 When you can't understand the theory, or the theory cannot be solved analytically. Monte Carlo is powerful tool you can employ to solve problems.
+
 ---
 ---
 
