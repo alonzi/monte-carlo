@@ -17,7 +17,7 @@ For this session prior knowledge is assumed. The target audience are 2nd year UV
 
 # Warm up question: How many games are played in the NCAA basketball tournament?
 
-# Today's Focus: How can you use computers to make estimates?
+# Today's Focus: The Monte Carlo Method
 
 ---
 
